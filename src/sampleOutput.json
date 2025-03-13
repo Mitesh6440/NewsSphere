@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Champions Trophy LIVE: South Africa v New Zealand, semi-final, Lahore – cricket score, radio commentary, video highlights & updates",
+            "description": "South Africa face New Zealand in the Champions Trophy semi-final in Lahore - follow live cricket scores, text updates, in-play video clips and radio commentary",
+            "url": "http://www.bbc.co.uk/sport/cricket/live/c8059yx3ejdt",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9518/live/14b26a00-f8e9-11ef-8c03-7dfdbeeb2526.jpg",
+            "publishedAt": "2025-03-05T09:22:33.5136734Z",
+            "content": "Srinivas VijaykumarCricviz analyst\r\nSouth Africa's poor record in knockout matches has been a perennial story. They've lost eight of their last nine knockout matches in ICC Men's ODI tournaments.\r\nAc… [+317 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Australia's Steve Smith retires from ODI cricket after Champions Trophy exit",
+            "description": "Steve Smith retires from one-day international cricket following Australia's Champions Trophy defeat by India.",
+            "url": "http://www.bbc.co.uk/sport/cricket/articles/cx2x01728x4o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5fc4/live/4ea3f3c0-f98c-11ef-a2f8-a75ed602e363.jpg",
+            "publishedAt": "2025-03-05T07:37:20.138506Z",
+            "content": "Steve Smith has retired from one-day international cricket following Australia's semi-final exit from the Champions Trophy.\r\nThe 35-year-old made 170 appearances for Australia in his 50-over career, … [+878 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "James Dampney",
+            "title": "Smith drops bombshell after ICC exit",
+            "description": "Australian captain Steve Smith has announced his retirement from One-Day International cricket.",
+            "url": "https://www.news.com.au/sport/cricket/steve-smith-drops-career-bombshell-after-semifinal-loss-to-india/news-story/8fccfe46146760ae8fdfe4f1dc9cce82",
+            "urlToImage": "https://content.api.news/v3/images/bin/5f927a911fc5c9b30b172fc4d9add6cc",
+            "publishedAt": "2025-03-05T06:23:00Z",
+            "content": "Australian captain Steve Smith has announced his retirement from One-Day International cricket.\r\nThe 35-year-old, who stepped in to fill Pat Cummins’ captaincy role during the ICC Champions Trophy to… [+2222 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Michael Doyle",
+            "title": "Steve Smith announces retirement from ODI cricket following Champions Trophy exit",
+            "description": "Steve Smith announces his retirement from one-day international cricket, following Australia's exit from the ICC Champions Trophy.",
+            "url": "https://www.abc.net.au/news/2025-03-05/steve-smith-announces-retirement-from-odi-cricket/105015120",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/11db64c064a2f95f636360073fa40e47?impolicy=wcms_watermark_news&cropH=1556&cropW=2767&xPos=0&yPos=52&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-03-05T06:18:07Z",
+            "content": "Steve Smith has announced his retirement from one-day international cricket, following Australia's exit from the ICC Champions Trophy.\r\nSmith, who won two ICC Cricket World Cups with Australia, capta… [+2006 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
